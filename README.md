@@ -1,7 +1,7 @@
 ### Hi there, my name is Daniil 👋
 I am a java back end web developer.
 
-- 🔭 I’m currently working at Sberbank-Technology
+- 🔭 I’m currently working at EPAM Systems
 - 🌱 I’m currently learning Golang
 - 💬 Don't offer me a job
 - 📫 How to reach me: 
