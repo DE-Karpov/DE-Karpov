@@ -13,7 +13,6 @@
 [<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="35" height="35">](https://www.java.com/en/) |
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="35" height="35">](https://git-scm.com/) | 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="35" height="35">](https://www.docker.com/) |
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="35" height="35">](https://kubernetes.io/) |
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="35" height="35">](https://aws.amazon.com/)
 
 
