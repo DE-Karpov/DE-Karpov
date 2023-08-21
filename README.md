@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/daniil-karpov-582867232" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
 
-### 🤵 About Me:
+### About Me:
 - 🏦 I'm currently working as a GOlang developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.java```,``` .go```, ```.sql```
